@@ -1,4 +1,4 @@
-
+helper.Add(numbers[i]);
 namespace ConsoleApp166
 {
     class Program
