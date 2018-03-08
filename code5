@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 pisalka
 
+=======
+moliz
+List<int> numbers = Console.ReadLine().Split(' 
+numbers = helper;
+>>>>>>> a747ae8867bd63aea3d6160e5c8c883d94af0553
 namespace ConsoleApp166
 {
     class Program
