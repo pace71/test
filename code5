@@ -18,3 +18,5 @@ namespace ConsoleApp166
         }
     }
 }
+Console.WriteLine(string.Join(" ",numbers));
+
