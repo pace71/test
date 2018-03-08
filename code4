@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 
     class Program
 
+=======
+helper.Add(numbers[i]);
+>>>>>>> d3e92e95517227de5dc68291ee8bb883ab8b8f44
 namespace ConsoleApp166
 {
     class Program
