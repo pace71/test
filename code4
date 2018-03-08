@@ -1,3 +1,6 @@
+Console.WriteLine(string.Join(" ",numbers));
+Console.WriteLine(string.Join(" ",numbers));
+Console.WriteLine(string.Join(" ",numbers));
 helper.Add(numbers[i]);
 namespace ConsoleApp166
 {
