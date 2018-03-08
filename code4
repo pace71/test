@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 Console.WriteLine(string.Join(" ",numbers));
 Console.WriteLine(string.Join(" ",numbers));
 Console.WriteLine(string.Join(" ",numbers));
+=======
+<<<<<<< HEAD
+
+    class Program
+
+=======
+>>>>>>> 9ea4dddf392377a6803f3239be25a62b883b2fdf
 helper.Add(numbers[i]);
+>>>>>>> d3e92e95517227de5dc68291ee8bb883ab8b8f44
 namespace ConsoleApp166
 {
     class Program
