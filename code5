@@ -1,3 +1,4 @@
+moliz
 List<int> numbers = Console.ReadLine().Split(' 
 numbers = helper;
 namespace ConsoleApp166
