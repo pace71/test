@@ -1,5 +1,5 @@
 
-
+numbers = helper;
 namespace ConsoleApp166
 {
     class Program
