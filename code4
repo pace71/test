@@ -15,4 +15,5 @@ namespace ConsoleApp166
             numbers = helper;
             Console.WriteLine(string.Join(" ",numbers));
         }
-    }
+    } namespace ConsoleApp166
+
